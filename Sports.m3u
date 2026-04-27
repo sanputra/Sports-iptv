@@ -44,6 +44,12 @@ https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/594
 #EXTINF:0, EuroSport 2
 http://skytv4k.org:8080/LLXnCrjcKW/wcbmH1s5qB/593
+#EXTINF:0, FOX SPORTS 1 (FS1)
+http://platinium4k.com:8080/Arife/cm9ujzWn/665069
+#EXTINF:0, FOX SPORTS 2 (FS2)
+http://platinium4k.com:8080/Arife/cm9ujzWn/665068
+#EXTINF:0, FOX SOCCER PLUS
+http://platinium4k.com:8080/Arife/cm9ujzWn/665067
 #EXTINF:-1 tvg-id="F1Channel.ie@SD" tvg-logo="https://i.imgur.com/cjXzWsI.png" group-title="Sports",F1 Channel (720p)
 https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports",FIFA+ (720p)
